@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../imagenes/2292.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  
+}
+
+header{
+    text-align: center;
+   
+}
+
+header nav{
+    background-color: black;
+    padding: 20px;
+    height: 100px;
+}
+
+
+header nav a{
+
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 30px;
+    color: #fff;
+    padding:  20px;
+}
+
+header nav a:hover{
+    text-decoration: underline;
+}
+
+main h1{
+    text-align: center;
+    color: #0ecc3d;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 50%;
+    margin: 250px auto;
+    border-radius: 10px;
+    
+}
+
+main{
+    height: auto;
+   
+}
